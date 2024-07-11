@@ -1,3 +1,6 @@
 print("Hello, World!")
 print("This is the first committ")
 print("this is the second committ to master")
+print("Now, new branch 1")
+print("Now, new branch 1")
+print("Now, new branch 1")
